@@ -16,6 +16,8 @@
 		5BF11DFD27AA9C0D0052019C /* ComposeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11DFC27AA9C0D0052019C /* ComposeTests.swift */; };
 		5BF11E0727AA9C0D0052019C /* ComposeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E0627AA9C0D0052019C /* ComposeUITests.swift */; };
 		5BF11E0927AA9C0D0052019C /* ComposeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E0827AA9C0D0052019C /* ComposeUITestsLaunchTests.swift */; };
+		5BF11E1627AA9D040052019C /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E1527AA9D040052019C /* TableViewController.swift */; };
+		5BF11E1827AA9E6C0052019C /* Compose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E1727AA9E6C0052019C /* Compose.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		5BF11E0227AA9C0D0052019C /* ComposeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ComposeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF11E0627AA9C0D0052019C /* ComposeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeUITests.swift; sourceTree = "<group>"; };
 		5BF11E0827AA9C0D0052019C /* ComposeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5BF11E1527AA9D040052019C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		5BF11E1727AA9E6C0052019C /* Compose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compose.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				5BF11DEE27AA9C0D0052019C /* Assets.xcassets */,
 				5BF11DF027AA9C0D0052019C /* LaunchScreen.storyboard */,
 				5BF11DF327AA9C0D0052019C /* Info.plist */,
+				5BF11E1527AA9D040052019C /* TableViewController.swift */,
+				5BF11E1727AA9E6C0052019C /* Compose.swift */,
 			);
 			path = Compose;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 				5BF11DEA27AA9C0C0052019C /* ViewController.swift in Sources */,
 				5BF11DE627AA9C0C0052019C /* AppDelegate.swift in Sources */,
 				5BF11DE827AA9C0C0052019C /* SceneDelegate.swift in Sources */,
+				5BF11E1827AA9E6C0052019C /* Compose.swift in Sources */,
+				5BF11E1627AA9D040052019C /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
